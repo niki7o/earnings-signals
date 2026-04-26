@@ -4,7 +4,6 @@
 
 Author: Nikola Kolev
 Course: Data Science, SoftUni 2026
-Instructor: Yordan Darakchiev
 
 ---
 
