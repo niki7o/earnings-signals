@@ -4,3 +4,5 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 *.pkl
+*.bak
+notebooks/earnings_analysis.ipynb.bak
